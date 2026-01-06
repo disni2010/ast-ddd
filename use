@@ -1,3 +1,8 @@
 git config --global user.name "lonlike"
 git config --global user.email qq1479469511@163.com
 git config --global credential.help store
+
+#把本地项目推送到远程长仓库
+git push -u origin main
+#把本地仓库关联远程仓库
+git remote add origin git@github.com:disni2010/ast-ddd.git
