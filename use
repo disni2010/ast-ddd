@@ -1,0 +1,3 @@
+git config --global user.name "lonlike"
+git config --global user.email qq1479469511@163.com
+git config --global credential.help store
